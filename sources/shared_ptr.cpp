@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Gri1915
 
 #include "ptr.hpp"
 #include <stdexcept>
